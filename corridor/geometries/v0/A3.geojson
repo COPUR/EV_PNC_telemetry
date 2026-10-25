@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "family": "A3",
+    "name": "Inland short detour: Izmir, Turgutlu, Salihli, Aydin",
+    "quality": "draft-waypoints"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        27.14,
+        38.42
+      ],
+      [
+        27.7,
+        38.5
+      ],
+      [
+        28.14,
+        38.49
+      ],
+      [
+        27.84,
+        37.85
+      ]
+    ]
+  }
+}

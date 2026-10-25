@@ -1,0 +1,105 @@
+{
+  "status": "K",
+  "source": "corridor-pilot/scope.md section 1 (product owner input, 2026-10-25)",
+  "note": "User-listed stations. Unverified (K): they are not K1 evidence. No coordinates yet, so the index reports them as unplaced until they are reconciled with the EPDK list and CPO feeds (CP-DATA-004).",
+  "stations": [
+    {
+      "family": "A1",
+      "name": "Gelibolu servis alani",
+      "operator": "",
+      "note": "Esarj, Wat, Aksa, En Yakit points, about 180 kW",
+      "source": "user_listed"
+    },
+    {
+      "family": "A1",
+      "name": "Canakkale cevresi",
+      "operator": "",
+      "note": "Esarj, Wat, Aksa, En Yakit points, about 180 kW",
+      "source": "user_listed"
+    },
+    {
+      "family": "A2",
+      "name": "Soke - Novada AVM",
+      "operator": "",
+      "note": "ZES / Trugo / Shell",
+      "source": "user_listed"
+    },
+    {
+      "family": "A2",
+      "name": "Soke - Shell",
+      "operator": "Shell",
+      "note": "",
+      "source": "user_listed"
+    },
+    {
+      "family": "A2",
+      "name": "Soke - Trugo",
+      "operator": "Trugo",
+      "note": "",
+      "source": "user_listed"
+    },
+    {
+      "family": "A2",
+      "name": "Didim - ZES",
+      "operator": "ZES",
+      "note": "up to 180 kW",
+      "source": "user_listed"
+    },
+    {
+      "family": "A2",
+      "name": "Didim - HIZZLAN",
+      "operator": "HIZZLAN",
+      "note": "up to 180 kW",
+      "source": "user_listed"
+    },
+    {
+      "family": "A2",
+      "name": "Didim - Otojet",
+      "operator": "Otojet",
+      "note": "up to 180 kW",
+      "source": "user_listed"
+    },
+    {
+      "family": "A2",
+      "name": "Milas - Pomelon AVM",
+      "operator": "",
+      "note": "ZES / Trugo",
+      "source": "user_listed"
+    },
+    {
+      "family": "A2",
+      "name": "Milas - airport",
+      "operator": "",
+      "note": "ZES / Trugo",
+      "source": "user_listed"
+    },
+    {
+      "family": "A3",
+      "name": "A3 clusters (ZES, Trugo, Astor, 5 Sarj, Esarj)",
+      "operator": "",
+      "note": "180-400 kW points",
+      "source": "user_listed"
+    },
+    {
+      "family": "A4",
+      "name": "Bodrum - Avenue AVM",
+      "operator": "ZES",
+      "note": "400 kW",
+      "source": "user_listed"
+    },
+    {
+      "family": "A4",
+      "name": "Bodrum - Trugo",
+      "operator": "Trugo",
+      "note": "",
+      "source": "user_listed"
+    },
+    {
+      "family": "A4",
+      "name": "Didim - more than 9 DC points",
+      "operator": "",
+      "note": "hotel and mall points",
+      "source": "user_listed"
+    }
+  ]
+}

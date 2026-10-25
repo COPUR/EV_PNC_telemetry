@@ -1,0 +1,32 @@
+{
+  "version": "v0",
+  "quality": "draft-waypoints",
+  "source": "Hand-placed city-level waypoints from corridor-pilot/scope.md section 1. Wiring and tests only. Replace with a routed geometry (v1) before any in-corridor decision.",
+  "files": [
+    {
+      "family": "M",
+      "file": "M.geojson",
+      "sha256": "6bf9359728dfbd241d2df265910039d32fbba68e6c4affa20d6fb8220cb83f57"
+    },
+    {
+      "family": "A1",
+      "file": "A1.geojson",
+      "sha256": "51c614bd230e9dc5fe2ef3e4f370e83f7c63ffe0b72e43eb6f6ddf807a97b682"
+    },
+    {
+      "family": "A2",
+      "file": "A2.geojson",
+      "sha256": "420cd1f2f925ed9ba9d184cc17cef5427a37613ec5b563b459bdc28289a172aa"
+    },
+    {
+      "family": "A3",
+      "file": "A3.geojson",
+      "sha256": "3a0e7c68b44705bddf2373b22ae6fc3fa0eeebd7e843dc1e6696c915f5edd14e"
+    },
+    {
+      "family": "A4",
+      "file": "A4.geojson",
+      "sha256": "b452ad677eeed28fb9daab64707efb8ceceadbe985b7013a2b35b31e2c648190"
+    }
+  ]
+}

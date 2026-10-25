@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "label": "Oksijen",
+      "name_contains": [
+        "oksijen"
+      ],
+      "confidence": "U",
+      "note": "Membership of the Oksijen clusters is not yet sourced (corridor-pilot/kpis.md only names them). Matching on the station name is a placeholder; replace with site ids from the CPO list."
+    }
+  ]
+}

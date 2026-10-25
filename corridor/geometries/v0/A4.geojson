@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "family": "A4",
+    "name": "Bodrum last segment and Didim link: Didim, Milas, Bodrum airport, Bodrum",
+    "quality": "draft-waypoints"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        27.27,
+        37.38
+      ],
+      [
+        27.78,
+        37.32
+      ],
+      [
+        27.67,
+        37.25
+      ],
+      [
+        27.43,
+        37.04
+      ]
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "properties": {
+    "family": "A1",
+    "name": "Canakkale direction: Istanbul, Tekirdag, Malkara, Gelibolu, Canakkale, Biga, Bandirma, Balikesir",
+    "quality": "draft-waypoints"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        28.979,
+        41.015
+      ],
+      [
+        27.51,
+        40.98
+      ],
+      [
+        26.9,
+        40.89
+      ],
+      [
+        26.67,
+        40.41
+      ],
+      [
+        26.41,
+        40.15
+      ],
+      [
+        27.24,
+        40.23
+      ],
+      [
+        27.97,
+        40.35
+      ],
+      [
+        27.89,
+        39.65
+      ],
+      [
+        27.84,
+        38.92
+      ]
+    ]
+  }
+}
