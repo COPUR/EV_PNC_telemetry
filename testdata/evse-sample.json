@@ -1,0 +1,35 @@
+[
+  {
+    "evse_uid": "SAMPLE-1",
+    "evse_id": "TR*ZZZ*E0001*1",
+    "name": "Sample Gebze Oksijen",
+    "operator": "SampleCPO",
+    "lat": 40.781,
+    "lon": 29.47,
+    "max_power_kw": 180,
+    "power_type": "DC",
+    "source": "ocpi_feed"
+  },
+  {
+    "evse_uid": "SAMPLE-2",
+    "name": "Sample Soke (user-listed)",
+    "operator": "SampleCPO",
+    "lat": 37.75,
+    "lon": 27.42,
+    "max_power_kw": 120,
+    "power_type": "DC",
+    "source": "user_listed"
+  },
+  {
+    "evse_uid": "SAMPLE-3",
+    "name": "Sample far away",
+    "lat": 39.9,
+    "lon": 32.8,
+    "source": "epdk_list"
+  },
+  {
+    "evse_uid": "SAMPLE-4",
+    "name": "Sample without coordinates",
+    "source": "hub_feed"
+  }
+]

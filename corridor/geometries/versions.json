@@ -1,0 +1,10 @@
+{
+  "versions": [
+    {
+      "version": "v0",
+      "manifest_sha256": "cc2e18738ff895d6511a664180ba818c9a4344beade16664114fe0f79bed8e2d",
+      "quality": "draft-waypoints"
+    }
+  ],
+  "current": "v0"
+}

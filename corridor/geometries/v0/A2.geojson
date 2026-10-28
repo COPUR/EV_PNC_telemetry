@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "family": "A2",
+    "name": "Southern variants: Soke, Didim, Akbuk, Milas, Bodrum",
+    "quality": "draft-waypoints"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        27.41,
+        37.75
+      ],
+      [
+        27.27,
+        37.38
+      ],
+      [
+        27.43,
+        37.41
+      ],
+      [
+        27.78,
+        37.32
+      ],
+      [
+        27.43,
+        37.04
+      ]
+    ]
+  }
+}

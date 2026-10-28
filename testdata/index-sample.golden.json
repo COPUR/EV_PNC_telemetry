@@ -1,0 +1,71 @@
+{
+  "geometry_version": "v0",
+  "geometry_quality": "draft-waypoints",
+  "radius_m": 2000,
+  "entries": [
+    {
+      "evse_uid": "SAMPLE-1",
+      "evse_id": "TR*ZZZ*E0001*1",
+      "operator": "SampleCPO",
+      "lat": 40.781,
+      "lon": 29.47,
+      "max_power_kw": 180,
+      "power_type": "DC",
+      "source": "ocpi_feed",
+      "families": [
+        "M"
+      ],
+      "distance_m": {
+        "M": 71.4
+      },
+      "cluster": "Oksijen",
+      "k1_evidence": true
+    },
+    {
+      "evse_uid": "SAMPLE-2",
+      "operator": "SampleCPO",
+      "lat": 37.75,
+      "lon": 27.42,
+      "max_power_kw": 120,
+      "power_type": "DC",
+      "source": "user_listed",
+      "families": [
+        "M",
+        "A2"
+      ],
+      "distance_m": {
+        "A2": 879.2,
+        "M": 248.1
+      },
+      "k1_evidence": false,
+      "k1_withheld_reason": "user-listed station (K): unverified, does not count as K1 evidence"
+    }
+  ],
+  "unplaced": [
+    {
+      "evse_uid": "SAMPLE-3",
+      "name": "Sample far away",
+      "source": "epdk_list",
+      "reason": "outside every family buffer"
+    },
+    {
+      "evse_uid": "SAMPLE-4",
+      "name": "Sample without coordinates",
+      "source": "hub_feed",
+      "reason": "no coordinates"
+    }
+  ],
+  "summary": {
+    "input": 4,
+    "in_corridor": 2,
+    "k1_evidence": 1,
+    "by_family": {
+      "A2": 1,
+      "M": 2
+    },
+    "by_source": {
+      "ocpi_feed": 1,
+      "user_listed": 1
+    }
+  }
+}
